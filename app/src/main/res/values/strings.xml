@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">华容道练习生</string>
+    <string name="appName" translatable="false">华容道练习生</string>
+    <string name="welcome">让华容道\n变得简单一点</string>
+    <string name="startGame">开始游戏</string>
+    <string name="chooseTitle">选择关卡</string>
+    <string name="pass1">第1关</string>
+    <string name="pass2">第2关</string>
+    <string name="reset">重置</string>
+    <string name="previous">上一关</string>
+    <string name="next">下一关</string>
+    <string name="pass3">第3关</string>
+    <string name="pass4">第4关</string>
+    <string name="pass5">第5关</string>
+    <string name="pass6">第6关</string>
+    <string name="pass7">第7关</string>
+    <string name="pass8">第8关</string>
+    <string name="pass9">第9关</string>
+    <string name="pass10">第10关</string>
+    <string name="pass11">第11关</string>
+    <string name="pass12">第12关</string>
+</resources>
